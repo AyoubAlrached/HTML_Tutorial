@@ -39,7 +39,7 @@
 
 ## image
 
-![html example][logo]
+![html example][1]
 
-[logo]: img/ex.jpg "html code example"
+[1]: img/ex.jpg "html code example"
 
